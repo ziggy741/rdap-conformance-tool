@@ -5,7 +5,7 @@ Validator library module for the RDAP conformance tool
 # Architecture of json validation
 
 The architecture leverages the json schema draft 07 to validate rdap json responses.
-The main validation library used is [org.everit.json](https://github.com/everit-org/json-schema).
+The main validation library used is [org.everit.json](https://github.com/everit-org/j9son zacharyziggy7414-schema).
 
 The json-schemas were adapted from the one from [Mario Loffredo and Maurizio Martinelli](https://gitlab.centralnic.com/centralnic/rdap-json-schemas).
 
